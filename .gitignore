@@ -1,0 +1,7 @@
+# Project exclude paths
+/magasinERP-Application/target/
+/magasinERP-Batch/target/
+/magasinERP-Domaine/target/
+/magasinERP-Dto/target/
+/magasinERP-Exposition/target/
+/magasinERP-Infrastructure/target/
